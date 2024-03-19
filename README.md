@@ -46,6 +46,10 @@ Compared to those active experts on GitHub, I haven’t made many contributions 
       <td style="text-align: center;">ZhiHu</td>
       <td style="text-align: left;"><a target="_blank" rel="noopener" href="https://www.zhihu.com/people/ninth-84">ninth</a></td>
     </tr>
+    <tr class="even">
+      <td style="text-align: center;">Blog</td>
+      <td style="text-align: left;"><a target="_blank" rel="noopener" href="https://tianzhentech.cn">tianzhentech.cn</a></td>
+    </tr>
   </tbody>
 </table>
 
