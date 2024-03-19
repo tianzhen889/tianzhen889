@@ -28,11 +28,11 @@ Compared to those active experts on GitHub, I haven’t made many contributions 
   <tbody>
     <tr class="odd">
       <td style="text-align: center;">QQ</td>
-      <td style="text-align: left;"><a target="_blank" rel="noopener" href="/api/images/QQ.jpg">2647298256</a></td>
+      <td style="text-align: left;"><a target="_blank" rel="noopener" href="https://tianzhentech.cn/api/images/QQ.jpg">2647298256</a></td>
     </tr>
     <tr class="even">
       <td style="text-align: center;">WeChat</td>
-      <td style="text-align: left;"><a target="_blank" rel="noopener" href="/api/images/个人公众号.jpg">TianzhenTech</a></td>
+      <td style="text-align: left;"><a target="_blank" rel="noopener" href="https://tianzhentech.cn/api/images/个人公众号.jpg">TianzhenTech</a></td>
     </tr>
     <tr class="odd">
       <td style="text-align: center;">GitHub</td>
